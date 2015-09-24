@@ -6,7 +6,4 @@ images:
   - src: hawaiigraphic.jpg
     caption: This is my finished piece.
 
-sketches:
-  - sketch-1.jpg
-
 ---
